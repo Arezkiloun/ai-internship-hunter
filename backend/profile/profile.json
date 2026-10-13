@@ -1,0 +1,35 @@
+{
+  "name": "Lounis Arezki",
+  "target_position": [
+    "Stage développeur web",
+    "Stage développeur full-stack",
+    "Stage software developer"
+  ],
+  "start_date": "2027-04-05",
+  "duration_months": {
+    "min": 4,
+    "max": 6
+  },
+  "locations": [
+    "Paris",
+    "Île-de-France",
+    "Rouen"
+  ],
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "NestJS",
+    "Python",
+    "Java",
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "Docker",
+    "Git"
+  ],
+  "education": "Bachelor 2 Informatique - EPITECH",
+  "experience_level": "student",
+  "portfolio": "https://mon-portfolio-arezki2.vercel.app",
+  "github": "https://github.com/Arezkiloun"
+}

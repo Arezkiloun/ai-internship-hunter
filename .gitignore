@@ -1,0 +1,19 @@
+# Backend Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/*.db
+backend/*.db-*
+backend/internships_backup.db
+backend/internships_before_new_matching.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# IDE / système
+.vscode/
+.idea/
+.DS_Store
