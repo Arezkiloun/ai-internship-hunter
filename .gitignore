@@ -17,3 +17,10 @@ frontend/.env.local
 .vscode/
 .idea/
 .DS_Store
+.neon
+.env.local
+node_modules/
+
+# Neon
+.env.local
+.neon/
